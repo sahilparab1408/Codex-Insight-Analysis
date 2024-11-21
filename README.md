@@ -1,4 +1,4 @@
-# 📊 CodeX Consumer Insights Project  
+# 📊 CodeX Insights Analysis Project  
 
 ## 🔍 Overview  
 This project focuses on analyzing consumer survey data to provide actionable insights for **CodeX Energy Drink**. The goal is to empower the marketing team with data-driven recommendations to improve product offerings, refine marketing strategies, and enhance customer satisfaction.
@@ -87,6 +87,4 @@ Survey responses detailing consumer behavior and preferences:
 - ✅ Strong understanding of **Sales and Marketing Reports** to drive strategic decisions.  
 - ✅ Experience in designing **User-Centric Reports** with a focus on accessibility and usability.   
 - ✅ Proven ability to develop and execute a structured **Report-Building Plan** effectively.  
-
-
-### ✨ Powered by Data. Inspired by Insights.  
+ 
