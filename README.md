@@ -13,7 +13,7 @@ Click the link below to view the live dashboard:
 
 ## 📄 View Output Report  
 Click the link below to download or view the output report:  
-[📥 Download Report](./path-to-your-pdf-file.pdf)  
+[📥 Download Report](https://github.com/sahilparab1408/Codex-Insight-Analysis/blob/main/Codex%20Insight%20Analysis%20Report.pdf)  
 
 ---
 
