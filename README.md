@@ -11,6 +11,12 @@ Click the link below to view the live dashboard:
 
 ---
 
+## 📄 View Output Report  
+Click the link below to download or view the output report:  
+[📥 Download Report](./path-to-your-pdf-file.pdf)  
+
+---
+
 ## 📂 Data Files  
 
 ### 1. **`dim_respondents.csv`**  
