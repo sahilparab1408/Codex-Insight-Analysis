@@ -7,7 +7,7 @@ This project focuses on analyzing consumer survey data to provide actionable ins
 
 ## 🚀 Live Dashboard  
 Click the link below to view the live dashboard:  
-[🔗 View Live Dashboard](https://powerbi.microsoft.com/)  
+[🔗 View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODlhYmViZTYtMjQ0NC00ZDg2LTljODktZjUzNTRlMTZjMmZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 
 ---
 
