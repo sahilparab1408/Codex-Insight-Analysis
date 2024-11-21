@@ -5,6 +5,12 @@ This project focuses on analyzing consumer survey data to provide actionable ins
 
 ---
 
+## 🚀 Live Dashboard  
+Click the link below to view the live dashboard:  
+[🔗 View Live Dashboard](https://powerbi.microsoft.com/)  
+
+---
+
 ## 📂 Data Files  
 
 ### 1. **`dim_respondents.csv`**  
@@ -55,9 +61,7 @@ Survey responses detailing consumer behavior and preferences:
 ## 🛠️ Tools & Techniques  
 
 - **Power BI**: Interactive dashboards for visual storytelling.  
-- **SQL**: Querying and managing survey data efficiently.  
 - **Excel**: Data cleaning and preliminary analysis.  
-- **Python** (optional): For advanced analysis and automation.  
 
 ---
 
@@ -69,12 +73,20 @@ Survey responses detailing consumer behavior and preferences:
 
 ---
 
-## 📧 Contact  
-
-For any queries, please reach out:  
-- **Email**: [codex@energy.io](mailto:codex@energy.io)  
-- **Website**: [www.codexenergy.com](http://www.codexenergy.com)  
+## 🛠️ Technical Skills  
+- ✅ Expertise in **ETL Methodology** (Extract, Transform, Load) for efficient data processing.  
+- ✅ Ability to create **Date Tables** using **Power Query** for seamless time-based analysis.  
+- ✅ Skilled in deriving **Fiscal Months** and **Quarters** for enhanced reporting.  
+- ✅ Proficient in establishing **Data Model Relationships** using **Power Pivot** for dynamic reports.  
+- ✅ Capability to integrate supplementary data into existing models to enrich insights.  
+- ✅ Advanced proficiency in **DAX** for creating calculated columns and measures.  
 
 ---
+
+## 🤝 Soft Skills  
+- ✅ Strong understanding of **Sales and Marketing Reports** to drive strategic decisions.  
+- ✅ Experience in designing **User-Centric Reports** with a focus on accessibility and usability.   
+- ✅ Proven ability to develop and execute a structured **Report-Building Plan** effectively.  
+
 
 ### ✨ Powered by Data. Inspired by Insights.  
